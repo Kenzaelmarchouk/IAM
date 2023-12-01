@@ -7,4 +7,4 @@ Set of attributes that distinguish an entity (individual unit)
 
 Acess management?
 
-
+Control access to a protected resource by managing authentication and authorization.
