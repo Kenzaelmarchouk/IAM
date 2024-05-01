@@ -8,3 +8,9 @@ Set of attributes that distinguish an entity (individual unit)
 Acess management?
 
 Control access to a protected resource by managing authentication and authorization.
+
+#Example of opensource IAM tools:
+
+![opensource](https://github.com/Kenzaelmarchouk/IAM/assets/122173924/4ed259fc-a36a-48f5-965b-0650adb01888)
+
+
