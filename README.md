@@ -1,13 +1,15 @@
 # IAM (Identity Access Management)
-Identity?
+## Identity?
 
 Set of attributes that distinguish an entity (individual unit)
 
 ![IAM-Page-2](https://github.com/Kenzaelmarchouk/IAM/assets/122173924/a52a5efa-9a01-43fd-8551-ca2457b500b9)
 
-Acess management?
+## Acess management?
 
 Control access to a protected resource by managing authentication and authorization.
+## What is IAM?
+IAM is a combination of processes, policies, and technologies that manage digital identities and control access to an organization's resources. In simplly, it determines **who** can access **what** in a system and ensures that they have **the appropriate permissions** based on their **roles**.
 
 # Example of opensource IAM tools:
 
