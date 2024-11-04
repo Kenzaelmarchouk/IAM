@@ -30,7 +30,7 @@ IAM is a combination of processes, policies, and technologies that manage digita
   
 ![opensource](https://github.com/Kenzaelmarchouk/IAM/assets/122173924/4ed259fc-a36a-48f5-965b-0650adb01888)
 
-# Pratical example
+# Practical examples
 1. Deploy Keycloak using Docker compose
    - [Medium article](https://medium.com/@kenzamarchouk/deploying-keycloak-with-docker-38fe36f34b95)
    - [GitHub repository](https://github.com/Kenzaelmarchouk/Keycloak)
