@@ -32,6 +32,10 @@ IAM is a combination of processes, policies, and technologies that manage digita
 
 # Pratical example
 1. Deploy Keycloak using Docker compose
-   - [Medium article](https://medium.com/@kenzamarchouk/deploying-keycloak-with-docker-38fe36f34b95).
+   - [Medium article](https://medium.com/@kenzamarchouk/deploying-keycloak-with-docker-38fe36f34b95)
    - [GitHub repository](https://github.com/Kenzaelmarchouk/Keycloak)
 3. Keycloak Authentication in Node.js Express: User Management and Access Control
+   - [Medium article Part1](https://medium.com/@kenzamarchouk/keycloak-authentication-in-node-js-express-user-management-and-access-control-part1-0c3370c75838)
+   - [Medium article Part2](https://medium.com/@kenzamarchouk/keycloak-authentication-in-node-js-express-user-management-and-access-control-part2-e7d1dc6391f9)
+   - [Medium article Part3](https://medium.com/@kenzamarchouk/keycloak-authentication-in-node-js-express-user-management-and-access-control-part3-950b6aad1353)
+   - [Github repository](https://github.com/Kenzaelmarchouk/KeycloakApp)
