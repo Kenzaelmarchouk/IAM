@@ -1,7 +1,7 @@
 # IAM (Identity Access Management)
 This repository contains a brief base of IAM (Identity and Access managment) with a simple practical example to handle IAM.
 # Table of content
-[Identity](## Identity management?)
+[Identity](##Identity management?)
 ## Identity?
 
 Set of attributes that distinguish an entity (individual unit)
