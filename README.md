@@ -1,5 +1,5 @@
 # IAM (Identity Access Management)
-This repository contains a brief base of IAM (Identity and Access managment) with a simple practical example to handle IAM.
+This repository contains a summary of the basics of IAM (Identity and Access Management), with practical examples of how to put IAM into practice.
 
 ## Identity?
 
