@@ -19,7 +19,7 @@ Control access to a protected resource by managing authentication and authorizat
 ## Authorization?
 What an authenticated user is allowed to do.
 ## What is IAM?
-IAM is a combination of processes, policies, and technologies that manage digital identities and control access to an organization's resources. In simplly, it determines **who** can access **what** in a system and ensures that they have **the appropriate permissions** based on their **roles**.
+IAM is a combination of processes, policies, and technologies that manage digital identities and control access to an organization's resources. simplly, it determines **who** can access **what** in a system and ensures that they have **the appropriate permissions** based on their **roles**.
 
 # Example of opensource IAM tools:
 
